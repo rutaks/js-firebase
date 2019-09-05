@@ -1,0 +1,1 @@
+import { firebaseConfig as key } from './key.js'
